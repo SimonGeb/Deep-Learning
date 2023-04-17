@@ -18,3 +18,4 @@ This repository contains several scripts.
 This repository also contains data of several trained models.
 - The checkpoint directory contains various trained models
 - The dataset directory should be used to save training or testing images
+  - The dataset for the original paper is available here: https://github.com/cchen156/Learning-to-See-in-the-Dark
