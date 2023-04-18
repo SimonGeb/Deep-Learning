@@ -17,5 +17,7 @@ This repository contains several scripts.
 
 This repository also contains data of several trained models.
 - The checkpoint directory contains various trained models
+  - The 'full' models are trained with the same number of epochs and images as the original model so will have the best performance
+  - The other models are all trained with 40 images and 15 epochs, mainly to compare performance
 - The dataset directory should be used to save training or testing images
   - The dataset for the original paper is available here: https://github.com/cchen156/Learning-to-See-in-the-Dark
