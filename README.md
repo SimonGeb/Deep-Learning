@@ -17,6 +17,7 @@ This repository contains several scripts.
 
 This repository also contains data of several trained models.
 - The checkpoint directory contains various trained models
+  - Because of the size, they are available here: https://drive.google.com/drive/folders/1orE2XH5PN_G73QLLj4jhee4oJ8mzaxZw?usp=sharing
   - The 'full' models are trained with the same number of epochs and images as the original model so will have the best performance
   - The other models are all trained with 40 images and 15 epochs, mainly to compare performance
 - The dataset directory should be used to save training or testing images
