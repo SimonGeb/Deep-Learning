@@ -9,9 +9,11 @@ This repository contains several scripts.
   - Do not forget to change the file extention correctly as this is different depending on the camera
   - Do not forget to change the bit level of the camera
   - The code will automatically select the right black level and bayer filter arrangement
+- Training: use this for training your own model
+  - Ensure you set the directories for input and output correctly
 - PSNR and SSIM: use this to calculate PSNR and SSIM values for pairs of output/ground truth images
   - Again, ensure you set the directories correctly
-
+- Plot loss: use this to plot the loss of your own trained models
 
 **Data**
 
